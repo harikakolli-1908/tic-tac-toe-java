@@ -16,7 +16,7 @@ public class Game {
 
         System.out.println("🎮 Welcome to Tic Tac Toe!");
 
-        // Take player names as input
+        
         System.out.print("Enter name of Player 1 (X): ");
         String name1 = sc.nextLine();
 
