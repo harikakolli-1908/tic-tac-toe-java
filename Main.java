@@ -4,4 +4,3 @@ public class Main {
         game.start();
     }
 }
-//https://chatgpt.com/s/t_6970a78812dc81918a9f32da3c0e4672
